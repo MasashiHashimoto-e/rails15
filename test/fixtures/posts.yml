@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  use_id: MyString
+  title: MyString
+  startday: 2024-02-27
+  finisyday: 2024-02-27
+  oneday: MyString
+  memo: MyText
+
+two:
+  use_id: MyString
+  title: MyString
+  startday: 2024-02-27
+  finisyday: 2024-02-27
+  oneday: MyString
+  memo: MyText
